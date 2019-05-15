@@ -1,0 +1,4 @@
+git add .
+
+zeros()
+ones()
